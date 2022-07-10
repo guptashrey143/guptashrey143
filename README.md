@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guptashrey143
-- 👀 I’m interested in Robotics 
-- 🌱 I’m currently learning IoT and Embedded Systems
+- 👀 I’m interested in IoT and Robotics
+- 🌱 I’m currently learning developing and deploying IoT based systems.
 - 💞️ I’m looking to collaborate on projects related to IoT
 - 📫 Mail me at guptashrey050@gmail.com
 
