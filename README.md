@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guptashrey143
 - 👀 I’m interested in IoT and Robotics.
 - 🏫 Currently enrolled at University of Florida for MS in CS.
-- 🌱 I’m currently looking for Internships as a Software Developer for Summer 2024.
+- 🌱 I’m currently looking for Full time role as a software developer or an embedded software developr.
 - 📫 Mail me at gshrey4@gmail.com
 
 <!---
