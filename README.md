@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guptashrey143
 - 👀 I’m interested in IoT and Robotics.
-- 🏫 Currently enrolled at University of Florida for MS in CS.
-- 🌱 I’m currently looking for Full time role as a software developer or an embedded software developr.
+- 🏫 COmpleted my Matser's in Computer Science from University of Florida.
+- 🌱 I’m currently working as a IoT software developer at Visium.one.
 - 📫 Mail me at gshrey4@gmail.com
 
 <!---
